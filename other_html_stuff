@@ -1,0 +1,5 @@
+Box aligned left:
+<div class="box left">BOX TEXT</div>
+aligned right:
+<div class="box right">BOX TEXT</div>
+

@@ -1,7 +1,7 @@
 html {background-color: #111111;color: white;font-family: 'Ubuntu',sans-serif;}
 a {color:aqua;}
-#navbar {overflow: hidden;background-color: #333333;position: fixed;top: 0px;border: 10px solid #111111;width: 90%;}
-#navbar a {float: left;display: block;color: #f2f2f2;text-align: center;padding: 10px 11px;text-decoration: none;}
+#navbar {overflow: hidden;background-color: #333333;position: fixed;top: 0px;border: 10px solid #111111;width: 96%;}
+#navbar a {float: left;display: block;color: #f2f2f2;text-align: center;padding: 10px 12px;text-decoration: none;}
 #navbar a.active {background-color: #7ec636;color: white;}
 #navbar a.cont {background-color: #00b0d0;color: white;}
 #navbar a.sub {background-color: #808080;color: white;}

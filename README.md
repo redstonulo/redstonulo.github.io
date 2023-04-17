@@ -1,6 +1,6 @@
 # (github told me to make a readme)
 
-[This is my website, apparently.](redstonulo.github.io) It is very work in progress.
+[This is my website, apparently.](https://redstonulo.github.io) It is very work in progress.
 
 When I'm done with the project (which will probably never happen), every documentation that exists of my languages, scripts and other worldbuilding stuff will be on there.
 

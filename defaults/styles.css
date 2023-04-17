@@ -3,7 +3,8 @@ html {
     color: white;
     font-family: 'Ubuntu',sans-serif; 
     line-height: 1.4;
-    scroll-behavior: smooth;}
+    scroll-behavior: smooth;
+    font-size: 16px;}
 
 a {color:rgb(1, 218, 218);}
 

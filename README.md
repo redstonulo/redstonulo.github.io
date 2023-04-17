@@ -17,7 +17,6 @@ Every page will be multilingual. So far I have the following languages planned:
  - Hwêledu
  - Csiakalász
  - Nyászokeányi
- - Kymýš
  - Thīrachti
 
 Also, there is going to be all sorts of tools like a text-to-IPA converter ("Hwêledu" -> ['ʰweˑlɛðy]).

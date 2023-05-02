@@ -7,7 +7,7 @@ html {
     font-size: 16px;}
 
 code {
-font-family: 'Consolas';
+font-family: 'Consolas', monospace;
 }
 
 a {color:rgb(1, 218, 218);}

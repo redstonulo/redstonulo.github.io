@@ -1,10 +1,14 @@
 html {
     background-color: #111111;
     color: white;
-    font-family: 'Ubuntu',sans-serif; 
+    font-family: 'Ubuntu', sans-serif; 
     line-height: 1.4;
     scroll-behavior: smooth;
     font-size: 16px;}
+
+code {
+font-family: 'Consolas', monospace;
+}
 
 a {color:rgb(1, 218, 218);}
 

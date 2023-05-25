@@ -3,3 +3,16 @@ Box aligned left:
 aligned right:
 <div class="box right">BOX TEXT</div>
 
+default navbar for conlang articles
+<div id="navbar">
+    <a href="/library/index.html">&lt;&lt; Back</a>
+    <a href="/library/conlangs/ily_langs/index.html" class="parent">Ilytharian languages</a>
+    <a href="../avaaloxqacs/index.html" class="sibling">Avaalöqacs</a>
+    <a href="../csiakalasz/index.html" class="sibling">Csiakalász</a>
+    <a href="../csewesixsele/index.html" class="sibling">Csewesixséle</a>
+    <a href="../hweledu/index.html" class="sibling">Hwêledu</a>
+    <a href="../kymycsti/index.html" class="sibling">Kımyčti</a>
+    <a href="../kymisx/index.html" class="sibling">Kymýš</a>
+    <a href="../nyaszokeanyi/index.html" class="sibling">Nyászokeányi</a>
+    <a href="../thirachti/index.html" class="sibling">Thīrachti</a>
+  </div>

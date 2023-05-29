@@ -20,6 +20,6 @@ Every page will be multilingual. So far I have the following languages planned:
  - Thīrachti
  - Csewesixséle
 
-Also, there is going to be all sorts of tools like a text-to-IPA converter for my conlangs ("Hwêledu" -> ['ʰweˑlɛðy]).
+Also, there is going to be all sorts of tools like a text-to-IPA converter for my conlangs ("cwûthair" -> [ˈcʷuˑ.h̬æɾ̥]).
 
 Maybe I'm even going to host some games there, like this idea of 16x16 chess I once had in the middle of the night. Who knows.

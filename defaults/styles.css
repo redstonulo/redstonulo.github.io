@@ -4,11 +4,9 @@ html {
     font-family: 'Ubuntu', sans-serif; 
     line-height: 1.4;
     scroll-behavior: smooth;
-    font-size: 16px;}
+    font-size: 20px;}
 
-code {
-font-family: 'Consolas', monospace;
-}
+code {font-family: 'Consolas', monospace;}
 
 a {color:rgb(1, 218, 218);}
 
@@ -21,28 +19,23 @@ h5 {color:#393939}
     position: sticky;
     top: 0px;
     border: 10px solid #111;
-    width: 97vw;}
-
+    width: 98vw;}
 #navbar a {
     float: left;
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 8px 12px;
+    padding: 9px 12px;
     text-decoration: none;}
-
 #navbar a.me {
     background-color: #7ec636;
     color: white;}
-
 #navbar a.child {
     background-color: #00b0d0;
     color: white;}
-
 #navbar a.parent {
     background-color: #808080;
     color: white;}
-
 #navbar a.sibling {
     background-color: #007355;
     color:white;}
@@ -53,7 +46,6 @@ h5 {color:#393939}
     float:left;
     top: 60px;
     width: 240px;}
-
 #navcol a {
     float: left;
     display: grid;
@@ -63,18 +55,14 @@ h5 {color:#393939}
     text-decoration: none;
     width:200px;
     background-color: #111111;}
-
-#navcol a.current {
-    background-color: #00b0d0;
-}
+#navcol a.current {background-color: #00b0d0;}
 
 #overview {
     overflow:visible;
     position: sticky;
     float:right;
     top: 80px;
-    width: 240px;}
-    
+    width: 240px;}  
 #overview a {
     float: left;
     display:grid;
@@ -82,7 +70,6 @@ h5 {color:#393939}
     text-align: right;
     padding: 0px 14px;
     text-decoration: none;}
-
 #overview h5 {
     float: right;
     display: grid;
@@ -109,21 +96,19 @@ h5 {color:#393939}
     color:#555555}
 
 #infobox {
-    width: 300px;
+    width: 400px;
     margin-left: 10px;
     margin-top: 10px;
-    padding: 5px;
+    padding: 10px;
     border: 3px solid #8a8a8a;
     background-color: #222222;
     border-radius: 8px;
     line-height: 1.1;
     float:right;}
-
 #infobox h5 {
     text-align: center;
     margin: 15px 0px;
     color:#555555}
-
 #infobox p {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -149,7 +134,9 @@ table, td, th {
     border: 1px solid #606060; 
     border-collapse: collapse;
     text-align: center;
-    font-size: small;
-    width: 620px;}
+    width: 60vw;}
 
 table {float:left}
+
+.left {text-align: left}
+.right {text-align: right;}
